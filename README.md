@@ -9,7 +9,16 @@
 No projeto implementado tentei aplicar o conteúdo aprendido em aula, desenvolvendo a página inicial de um site para desktop de um curso de idiomas.
 
 Aqui no repositório do Git está o desafio em formato **.fig** e **.png**.
+https://github.com/nayarabr/ux-ui-course-projects/tree/main/wireframe-media-fidelidade
 
 **Link do Figma:** https://www.figma.com/file/AIz41TOJaG0TXuLQgaJyqY/Desafio?type=design&node-id=0%3A1&mode=design&t=CoPRgxYlI3olvK9W-1
 
 ---------------
+### Desafio 2: Construindo um Design System
+
+No projeto implementado utilizei o wireframe do desafio 1 como base e apliquei conceitos de design system de forma básica.
+
+Aqui no repositório do Git está o desafio em formato **.fig** e **.png**.
+https://github.com/nayarabr/ux-ui-course-projects/tree/main/design-system
+
+**Link do Figma:** https://www.figma.com/file/AIz41TOJaG0TXuLQgaJyqY/Desafio?type=design&node-id=19%3A2&mode=design&t=E9hMlpBBwZcLVNiD-1
